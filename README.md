@@ -5,7 +5,7 @@
 
 I am currently a Master's student at Jilin University, holding dual Bachelor's degrees in **Traffic Engineering** and **Computer Science**. My research focuses on **Road Traffic Safety** and **Intelligent Transportation Systems (ITS)**. 
 
-Unlike focusing on mid-level trajectory planning or low-level vehicle execution control, I approach autonomous driving and traffic safety from a **top-level traffic engineering perspective**. I am passionate about modeling driving risk fields and designing high-level safe driving strategies using AI.
+Instead of focusing on mid-level trajectory planning or low-level vehicle execution control, I approach autonomous driving and traffic safety from a **top-level traffic engineering perspective**. I am passionate about modeling driving risk fields and designing high-level safe driving strategies using AI.
 
 Here are a few things about me:
 
