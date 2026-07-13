@@ -31,7 +31,7 @@ Here are a few things about me:
   - Top-level risk modeling in traffic engineering.
   - How to balance and integrate a dual degree in Engineering and CS!
 
-- 📫 **How to reach me:** Shoot me an email at [shynshiyin@gmail.com] or connect with me on [https://scholar.google.com/citations?user=jQ6vZ58AAAAJ].
+- 📫 **How to reach me:** Shoot me an email at shynshiyin@gmail.com or connect with me on https://scholar.google.com/citations?user=jQ6vZ58AAAAJ.
 
 - 😄 **Pronouns:** He/Him
 
