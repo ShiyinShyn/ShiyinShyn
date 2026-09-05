@@ -1,7 +1,7 @@
 ## Hi there, I'm ShiyinShyn 👋
 *(You can just call me **Shyn** ✨ — pronounced exactly like "shine")*
 
-🚀 **Traffic Engineer | AI Enthusiast | Ph.D. Applicant (Fall 2027)**
+🚀 **Traffic Engineer | AI Enthusiast | Ph.D. Applicant (Fall 2027 or Spring 2028)**
 
 I am currently a Master's student at Jilin University, holding dual Bachelor's degrees in **Traffic Engineering** and **Computer Science**. My research focuses on **Road Traffic Safety** and **Intelligent Transportation Systems (ITS)**. 
 
